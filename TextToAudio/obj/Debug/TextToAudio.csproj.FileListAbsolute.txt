@@ -1,0 +1,10 @@
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\bin\Debug\TextToAudio.exe.config
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\bin\Debug\TextToAudio.exe
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\bin\Debug\TextToAudio.pdb
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\obj\Debug\TextToAudio.Properties.Resources.resources
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\obj\Debug\TextToAudio.csproj.GenerateResource.cache
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\obj\Debug\TextToAudio.csproj.CoreCompileInputs.cache
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\obj\Debug\TextToAudio.exe
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\obj\Debug\TextToAudio.pdb
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\obj\Debug\TextToAudio.csprojAssemblyReference.cache
+C:\dev\projects\TextToAudio\TextToAudio\TextToAudio\obj\Debug\TextToAudio.Form1.resources
